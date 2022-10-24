@@ -1,7 +1,7 @@
 # rick_and_morty
 # SDK - 3.3.5
 
-# FVM utilizado para gerenciamento de versões do SDK
+# FVM utilizado para gerenciamento de SDK
 # Gerenciamento de estado - mobx
 # Test - mokito
 # DIO
